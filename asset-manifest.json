@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Killua-01/breaking_bad.git/static/css/main.085db6c4.chunk.css",
+    "main.js": "/Killua-01/breaking_bad.git/static/js/main.4f2c1a0c.chunk.js",
+    "main.js.map": "/Killua-01/breaking_bad.git/static/js/main.4f2c1a0c.chunk.js.map",
+    "runtime-main.js": "/Killua-01/breaking_bad.git/static/js/runtime-main.7c072c3e.js",
+    "runtime-main.js.map": "/Killua-01/breaking_bad.git/static/js/runtime-main.7c072c3e.js.map",
+    "static/js/2.8cebbcb6.chunk.js": "/Killua-01/breaking_bad.git/static/js/2.8cebbcb6.chunk.js",
+    "static/js/2.8cebbcb6.chunk.js.map": "/Killua-01/breaking_bad.git/static/js/2.8cebbcb6.chunk.js.map",
+    "index.html": "/Killua-01/breaking_bad.git/index.html",
+    "static/css/main.085db6c4.chunk.css.map": "/Killua-01/breaking_bad.git/static/css/main.085db6c4.chunk.css.map",
+    "static/js/2.8cebbcb6.chunk.js.LICENSE.txt": "/Killua-01/breaking_bad.git/static/js/2.8cebbcb6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Killua-01/breaking_bad.git/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/Killua-01/breaking_bad.git/static/media/logo.e6ecab44.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c072c3e.js",
+    "static/js/2.8cebbcb6.chunk.js",
+    "static/css/main.085db6c4.chunk.css",
+    "static/js/main.4f2c1a0c.chunk.js"
+  ]
+}
